@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A4196
-- 👀 I’m interested in investments 
-- 🌱 I’m currently learning how to invest using github
+- 👀 I’m interested in investments and codeing 
+- 🌱 I’m currently learning how to code using github
 - 💞️ I’m looking to collaborate on any and all projects 
 - 📫 How to reach me benaviortiz@me.com
 
